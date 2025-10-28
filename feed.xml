@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Taniti</title>
-    <link href="https://nerdmouse.gitlab.io/taniti/feed.xml" rel="self" />
-    <link href="https://nerdmouse.gitlab.io/taniti" />
+    <link href="https://nerdmouse.github.io/taniti/feed.xml" rel="self" />
+    <link href="https://nerdmouse.github.io/taniti" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Cory Mouser</name>
     </author>
-    <id>https://nerdmouse.gitlab.io/taniti</id>
+    <id>https://nerdmouse.github.io/taniti</id>
 
 </feed>
