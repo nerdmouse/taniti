@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nerdmouse.gitlab.io/taniti/sitemap.xml
